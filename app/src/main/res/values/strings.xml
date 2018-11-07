@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiplasTelas</string>
+    <string name="btnentrar">Entrar</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
